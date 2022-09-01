@@ -1,2 +1,2 @@
 
-vim 0-current_working_directory
+shell basic command
